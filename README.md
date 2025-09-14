@@ -17,10 +17,10 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on [Split-wise-app](https://github.com/ibhavanaa/split-app-backend)  
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on [Sustainable-shopping](https://github.com/ibhavanaa/sustainable-shopping)  
+- 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on [Store ratings](https://github.com/ibhavanaa/store-ratings)  
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Java, MERN stack**
 - 📫 Reach me at **ibhavanachoudhary@gmail.com**
 - ⚡ Fun fact: **My code runs perfectly… until I add one more feature.**
 
