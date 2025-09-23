@@ -60,7 +60,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhavanaa&layout=compact&theme=tokyonight" alt="Top languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibhavanaa&theme=highcontrast" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ibhavanaa&theme=highcontrast" alt="GitHub streak" />
 </p>
 
 ---
