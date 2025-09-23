@@ -53,6 +53,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -60,7 +61,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhavanaa&layout=compact&theme=tokyonight" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ibhavanaa&theme=highcontrast" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ibhavanaa&theme=highcontrast&date=20250923" alt="GitHub streak" />
 </p>
 
 ---
@@ -70,3 +71,4 @@
 ---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
