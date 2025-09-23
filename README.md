@@ -61,9 +61,8 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhavanaa&layout=compact&theme=tokyonight" alt="Top languages" />
   <br/>
-  
+  <img src="https://streak-stats.demolab.com?user=ibhavanaa&theme=highcontrast&v=2&cacheBust=1" alt="GitHub Streak" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=ibhavanaa&theme=highcontrast&v=2&cacheBust=2)
 
 ---
 
