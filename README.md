@@ -18,7 +18,7 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on [Sustainable-shopping](https://github.com/ibhavanaa/sustainable-shopping)  
+- 🔭 I’m currently working on [Sustainable-shopping](https://github.com/ibhavanaa/university-room-management)  
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on [Store ratings](https://github.com/ibhavanaa/store-ratings)  
 - 💬 Ask me about **Java, MERN stack**
